@@ -1,0 +1,25 @@
+/*TimeDisplay.css*/
+
+.site-wrapper {
+	background: #018ded url(https://source.unsplash.com/3MNzGlQM7qs/1500x1500);
+	background-size: cover;
+	height: 100vh;
+}
+.ClockHeading {
+	display: block;
+	font-weight: bolder;
+	text-align: center;
+	width: 220px;
+	padding: 10px;
+	color: salmon;
+}
+.DigitalTime {
+	display: block;
+	font-weight: bold;
+	text-align: center;
+	width: 220px;
+	padding: 10px;
+}
+.AnalogTime {
+	padding: 10px;
+}
